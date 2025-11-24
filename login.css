@@ -17,7 +17,7 @@ body {
 .form {
     width: 100%;
     max-width: 400px;
-    height: 40%;
+    height: 30%;
     background-color: white;
     padding: 30px;
     border-radius: 10px;
@@ -96,4 +96,5 @@ input:focus {
     
 
 }
+
 
