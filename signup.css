@@ -17,7 +17,7 @@ body {
 .form {
     width: 100%;
     max-width: 400px;
-    height: 85%;
+    height: 40%;
     background-color: white;
     padding: 25px;
     border-radius: 10px;
@@ -93,4 +93,5 @@ input:focus {
 .signup_li{
     padding-left: 5px;
     
+
 }
